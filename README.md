@@ -1,8 +1,8 @@
 ## Next.js App Router Course - Starter
 
-Auth data:
-email: 'user@nextmail.com',
-password: '123456',
+Auth data:</br>
+  email: 'user@nextmail.com',<br/>
+  password: '123456',<br/>
 
 This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
