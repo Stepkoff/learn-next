@@ -1,4 +1,5 @@
 ## Next.js App Router Course - Starter
+https://learn-next-beige.vercel.app/
 
 Auth data:</br>
   email: 'user@nextmail.com',<br/>
